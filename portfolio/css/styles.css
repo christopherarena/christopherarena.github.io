@@ -6,6 +6,12 @@ body {
     padding-left: 100;
 }
 
+ul {
+    list-style-type: circle;
+    margin: 20
+    padding: 10
+}
+
 
 div {
     display: block;
