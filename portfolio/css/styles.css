@@ -1,5 +1,9 @@
 body {
     background-color: #DDDDDD;
+    padding-top: 25px;
+    padding-right: 50px;
+    padding-bottom: 25px;
+    padding-left: 50px;
 }
 
 
@@ -7,13 +11,16 @@ div {
     display: block;
 }
 
+
 span {
 
  }
 
+
 p {
     font-size: 18px;
 }
+
 
 h1 {
     color: #BF5700;
@@ -42,5 +49,6 @@ h5 {
 }
     
 h6 {
+
     
 }
