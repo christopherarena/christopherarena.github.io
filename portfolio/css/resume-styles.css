@@ -24,12 +24,12 @@ article {
 }
 
 p {
-    font-size: 24px;
+    font-weight: 400;
 
 }
 
 b {
-    font-family: 'Henny Penny', cursive;
+    font-family: 'Andada', serif;
     color: #1E2A5F;
 
 }
@@ -42,19 +42,19 @@ h1 {
 }
 
 h2 {
-    font-family: 'Henny Penny';
+    font-family: 'Andada', serif;
     color: #1E2A5F;
     
 }
 
 h3 {
-   font-family: 'Henny Penny';
+   font-family: 'Andada', serif;
        color: #555655;
     
 }
 
 h4 {
-    font-family: 'Henny Penny';
+    font-family: 'Andada', serif;
     color: #FF0000;
     font-size: 30px;    
 }
