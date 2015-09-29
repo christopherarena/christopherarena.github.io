@@ -1,9 +1,8 @@
-body {
-    background-color: #FFFFFF;
-    padding:10px 5px 15px 20px;
- 
-}
 
+
+
+
+}
 div {
     display: block;
 
@@ -71,4 +70,10 @@ h6 {
     font-family: 'Andada', serif;
 
     http://www.servsafe.com/home
+
+    background-color: #FFFFFF;
+    padding:10px 5px 15px 20px;
+    background-image: url("http://yoursite.com/images/image_name.gif");
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
 }
