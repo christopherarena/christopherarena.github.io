@@ -1,42 +1,32 @@
+.group:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.container-resume {
+    background-color: white;
+    width: 800px;
+    margin: auto;
+    padding: 50px;
+}
+
+hr {
+    color: red;
+    margin: 50px 0;
+    height: 10px;
+    opacity: .6;
+}
+
 body {
     font-family: 'Josefin', serif;
-    background-color: #FFFEEF;
+    background-color: #D6FFF2;
 }
 
-div {
-
-}
-
-}
 div {
     display: block;
 
 }
-
-span {
-
- }
-
- ul {
-    list-style-type: block;
-    margin: 10
-    padding: 5
-}
-
-article {
-
-}
-
-p {
-    font-weight: 600;
-
-}
-
-b {
-    
-
-}
-
 
 h1 {
     color: #000000;
@@ -49,33 +39,38 @@ h2 {
 }
 
 h3 {
-   
-    color:555655;
     
 }
 
-h4 {
-    color: #FF0000;
-    font-size: 20px;    
-}
-    
-h5 {    
-    
-}
-    
-h6 {
-    font-weight: 400;
-    
+section {
 
-    http://www.servsafe.com/home
+}
 
-    
-    padding:10px 5px 15px 20px;
-    background-image: url("http://yoursite.com/images/image_name.gif");
-    background-position: 50% 50%;
-    background-repeat: no-repeat;
+article {
+
+}
+
+p {
+    font-weight: 600;
+
+}
+
+b {
+   font-weight: 1000 
+
+}
+
+ul {
+    list-style-type: block;
+    margin: 10
+    padding: 5
+}
+
+li {
+
 }
 
 footer { 
     display: block;
 }
+
