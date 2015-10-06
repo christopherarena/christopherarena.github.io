@@ -58,15 +58,11 @@ b {
 
 ul {
     list-style-type: square;
-    font-style: oblique;
+    font-style: strong;
     margin: 10;
     padding: 5;
 }
 
-li {
-    font-style: strong;
-
-}
 
 footer { 
     display: block;
