@@ -37,10 +37,6 @@ h2 {
     
 }
 
-h3 {
-    headline-sub
-}
-
 section {
 
 }
@@ -62,11 +58,13 @@ b {
 
 ul {
     list-style-type: square;
-    margin: 10
-    padding: 5
+    font-style: oblique;
+    margin: 10;
+    padding: 5;
 }
 
 li {
+    font-style: oblique;
 
 }
 
