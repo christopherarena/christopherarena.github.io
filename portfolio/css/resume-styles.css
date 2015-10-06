@@ -2,7 +2,7 @@
     background-color: #C9CEC9;
     width: 900px;
     margin: auto;
-    padding: 50px;
+    padding: 75px;
 }
 
 strong {
@@ -28,7 +28,7 @@ div {
 
 h1 {
     color: #000000;
-    
+    font-family: 'Playfair', serif;
 }
 
 h2 {
