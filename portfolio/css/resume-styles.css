@@ -61,7 +61,7 @@ b {
 }
 
 ul {
-    list-style-type: block;
+    list-style-type: square;
     margin: 10
     padding: 5
 }
