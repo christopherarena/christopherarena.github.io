@@ -5,8 +5,8 @@
 }
 
 .container-resume {
-    background-color: white;
-    width: 800px;
+    background-color: #C9CEC9;
+    width: 500px;
     margin: auto;
     padding: 50px;
 }
@@ -20,7 +20,7 @@ hr {
 
 body {
     font-family: 'Josefin', serif;
-    background-color: #D6FFF2;
+    background-color: #C3996B;
 }
 
 div {
