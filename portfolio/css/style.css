@@ -38,25 +38,3 @@
 		max-width: 1000px;
 	}
 }
-
-hr {
-	color: red;
-	opacity: .6;
-}
-
-
-/*.contact-link {
-	display: none;
-	text-decoration: none;
-	color: #b8b8b8;
-}
-
-@media screen and (min-width: 520px) {
-	.contact-link {
-		display: block;
-	}
-}
-
-.contact-link:hover {
-	color: #orange;
-}*/
